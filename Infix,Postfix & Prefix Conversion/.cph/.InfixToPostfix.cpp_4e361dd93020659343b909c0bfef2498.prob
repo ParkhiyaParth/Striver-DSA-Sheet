@@ -1,0 +1,1 @@
+{"name":"Local: InfixToPostfix","url":"e:\\Striver DSA Sheet\\Infix,Postfix & Prefix Conversion\\InfixToPostfix.cpp","tests":[{"id":1734718712704,"input":"a+b*(c^d-e)","output":"abcd^e-*+"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Striver DSA Sheet\\Infix,Postfix & Prefix Conversion\\InfixToPostfix.cpp","group":"local","local":true}

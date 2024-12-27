@@ -1,0 +1,1 @@
+{"name":"Local: Insertion_Sort","url":"e:\\Striver DSA Sheet\\Insertion_Sort.cpp","tests":[{"id":1721637299504,"input":"6\n10 11 9 8 5 6","output":"5 6 8 9 10 11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Striver DSA Sheet\\Insertion_Sort.cpp","group":"local","local":true}

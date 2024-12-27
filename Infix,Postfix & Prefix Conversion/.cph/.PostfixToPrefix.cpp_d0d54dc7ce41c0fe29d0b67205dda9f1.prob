@@ -1,0 +1,1 @@
+{"name":"Local: PostfixToPrefix","url":"e:\\Striver DSA Sheet\\Infix,Postfix & Prefix Conversion\\PostfixToPrefix.cpp","tests":[{"id":1734721160397,"input":"ABC/-AK/L-*","output":"*-A/BC-/AKL"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Striver DSA Sheet\\Infix,Postfix & Prefix Conversion\\PostfixToPrefix.cpp","group":"local","local":true}
